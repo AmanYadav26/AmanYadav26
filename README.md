@@ -2,7 +2,8 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A passionate Frontend Developer and Problem solver</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/AmanYadav26/AmanYadav26/blob/main/gif.webp">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amanyadav26&label=Profile%20views&color=0e75b6&style=flat" alt="amanyadav26" /> </p>
+<p align="left"> <img src="![image](https://github.com/AmanYadav26/AmanYadav26/assets/99034773/8a893e1b-8831-4a77-91bc-277cddb3aaf9)
+" /> </p>
 
 - 🌱 I’m currently learning **Java and Adv. Javascript**
 
